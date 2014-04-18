@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) {{{year}}} {{{fullname}}}
+Copyright (c) 2014 Chris Johnson.
 
 Some portions based on code copyright (c) 2003 Mark Adams.
 
