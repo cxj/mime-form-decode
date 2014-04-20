@@ -1,0 +1,44 @@
+Content-Type: multipart/form-data; boundary="XbCY"
+MIME-Version: 1.0
+
+--XbCY
+Content-Disposition: form-data; name="PayloadType"
+
+PayloadType_Response_005010XA1
+--XbCY
+Content-Disposition: form-data; name="ProcessingMode"
+
+ProcessingMode_RealTime
+--XbCY
+Content-Disposition: form-data; name="PayloadID"
+
+PayloadID_f81d4fae-7dec-11d0-a765-00a0c91e6da6
+--XbCY
+Content-Disposition: form-data; name="TimeStamp"
+
+TimeStamp_2007-08-30T10:20:34Z
+--XbCY
+Content-Disposition: form-data; name="SenderID"
+
+SenderID_IdIdId
+￼--XbCY
+Content-Disposition: form-data; name="ReceiverID"
+
+ReceiverID_RdRdRdRd
+--XbCY
+Content-Disposition: form-data; name="CORERuleVersion"
+
+CORERuleVersion_2.2.0
+--XbCY
+Content-Disposition: form-data; name="ErrorCode"
+
+ErrorCode_Success
+--XbCY
+Content-Disposition: form-data; name="ErrorMessage"
+
+ErrorMessage_None
+--XbCY
+Content-Disposition: form-data; name="Payload"
+
+Payload_aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+--XbCY--
