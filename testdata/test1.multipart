@@ -1,0 +1,26 @@
+Content-Type: multipart/mixed; boundary="===============D3E8FA4E4B40=="
+MIME-Version: 1.0
+Subject: This is the subject
+From: sender@example.com
+To: recipient@example.com
+
+--===============D3E8FA4E4B40==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+This is an email message.
+
+--===============D3E8FA4E4B40==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment; filename=config1.txt
+
+Hello,
+
+This is a file attachment.
+
+--===============D3E8FA4E4B40==--

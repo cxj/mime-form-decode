@@ -1,0 +1,36 @@
+Content-Type: multipart/mixed; boundary="===============5FD491C98F39=="
+MIME-Version: 1.0
+Subject: This is the subject
+From: sender@example.com
+To: recipient@example.com
+
+This text should be ignored.
+
+--===============5FD491C98F39==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+This is an email message.
+
+--===============5FD491C98F39==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment; filename="config.txt"
+
+Hello,
+
+This is an attached plain text file.
+
+--===============5FD491C98F39==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Disposition: attachment; filename="file2.bin"
+Content-Transfer-Encoding: base64
+
+SGVsbG8sCgpUaGlzIGlzIGEgYmFzZTY0IGVuY29kZWQgbWVzc2FnZS4K
+
+--===============5FD491C98F39==--
