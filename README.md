@@ -1,4 +1,4 @@
 mime-form-decode
 ================
 
-Parse and decode MIME strings, in particular content-type multipart/form-data
+Parse and decode MIME strings, in particular those with content type multipart/form-data.
