@@ -39,6 +39,9 @@ LIB=libmimedecode.a
 
 product_1: $(LIB) try1 try2
 
+clean:
+	rm -f $(OBJ_FILES) $(LIB) try1 try2
+
 $(LIB):	$(OBJ_FILES)
 	ar -rvs $(LIB) $(OBJ_FILES)
 
