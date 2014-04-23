@@ -1,0 +1,7 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$classmime_1_1Decoder.html#a637236b6daf2e2f3009cf1ce2aa7a4f5" title="The data producer should call this once all data has been presented to the decoder to finalise proces..." alt="" coords="110,9,260,37"/>
+<area shape="rect" id="node4" href="$classmime_1_1Decoder.html#a08693d0ad86585afaac3e3c3ce8cc7aa" title="The data produced should call this method to present data to the decoder. " alt="" coords="104,65,267,93"/>
+<area shape="rect" id="node3" href="$classmime_1_1Parser.html#a77f30c2c2dcee8f4c82c6e11a0591b0d" title="mime::Parser::close" alt="" coords="318,5,458,33"/>
+<area shape="rect" id="node5" href="$classmime_1_1ParserFactory.html#a6e06b7d9ca26ef2b6f9ffd3d32444f6f" title="mime::ParserFactory\l::generic" alt="" coords="315,57,461,101"/>
+<area shape="rect" id="node6" href="$classmime_1_1Parser.html#aca69edabf25eb8b01e6c55c335d1791a" title="mime::Parser::parse" alt="" coords="317,125,459,153"/>
+</map>

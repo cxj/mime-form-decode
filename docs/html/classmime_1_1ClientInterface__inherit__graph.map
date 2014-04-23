@@ -1,0 +1,5 @@
+<map id="mime::ClientInterface" name="mime::ClientInterface">
+<area shape="rect" id="node2" href="$classmime_1_1Decoder.html" title="A class which knows how to decode MIME. " alt="" coords="93,83,204,111"/>
+<area shape="rect" id="node3" href="$classmime_1_1StringDecoder.html" title="mime::StringDecoder" alt="" coords="4,161,149,189"/>
+<area shape="rect" id="node4" href="$classTestDecoder.html" title="Test driver for the low&#45;level event&#45;driven Decoder API class. " alt="" coords="175,161,271,189"/>
+</map>

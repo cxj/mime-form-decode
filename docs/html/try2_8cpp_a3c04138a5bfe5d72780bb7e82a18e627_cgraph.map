@@ -1,0 +1,10 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$classmime_1_1Decoder.html#a637236b6daf2e2f3009cf1ce2aa7a4f5" title="The data producer should call this once all data has been presented to the decoder to finalise proces..." alt="" coords="105,5,255,33"/>
+<area shape="rect" id="node4" href="$classmime_1_1StringDecoder.html#a5370317270f41d11def19ff3e683bde8" title="Public API method dumps all known MIME form data key&#45;value pairs. " alt="" coords="107,57,253,101"/>
+<area shape="rect" id="node5" href="$classmime_1_1StringDecoder.html#a4cc99738810b5783c65d393e024ab7d1" title="Public API method retrieves a MIME form data element value. " alt="" coords="107,125,253,169"/>
+<area shape="rect" id="node6" href="$classmime_1_1StringDecoder.html#ab92c6e01c92d89b38351abcf06efa97a" title="Public API method specifies MIME string to decode. " alt="" coords="107,193,253,237"/>
+<area shape="rect" id="node3" href="$classmime_1_1Parser.html#a77f30c2c2dcee8f4c82c6e11a0591b0d" title="mime::Parser::close" alt="" coords="316,5,455,33"/>
+<area shape="rect" id="node7" href="$classmime_1_1Decoder.html#a08693d0ad86585afaac3e3c3ce8cc7aa" title="The data produced should call this method to present data to the decoder. " alt="" coords="304,201,467,229"/>
+<area shape="rect" id="node8" href="$classmime_1_1ParserFactory.html#a6e06b7d9ca26ef2b6f9ffd3d32444f6f" title="mime::ParserFactory\l::generic" alt="" coords="515,162,661,206"/>
+<area shape="rect" id="node9" href="$classmime_1_1Parser.html#aca69edabf25eb8b01e6c55c335d1791a" title="mime::Parser::parse" alt="" coords="517,230,659,258"/>
+</map>
